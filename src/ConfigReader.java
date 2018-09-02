@@ -1,8 +1,3 @@
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by Fernflower decompiler)
-//
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;

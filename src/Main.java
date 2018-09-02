@@ -1,9 +1,6 @@
 import java.io.IOException;
 
 public class Main {
-    public Main() {
-    }
-
     public static void main(String[] args) {
         try {
             ConfigReader config;
